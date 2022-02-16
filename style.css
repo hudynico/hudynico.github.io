@@ -10,7 +10,7 @@ body {
 header {
   background-color: #BC8F8F;
   padding: 5px;
-  text-align: center;
+  text-align: left;
   font-size: 30px;
   color: Black;
   border: 2px solid black;
@@ -20,7 +20,7 @@ header {
 nav {
   float: left;
   width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 400px; /* only for demonstration, should be removed */
   background: #DB7093;
   padding: 60px;
 }
@@ -32,11 +32,12 @@ nav ul {
 }
 
 article {
-  float: left;
+  float: right;
   padding: 20px;
   width: 70%;
   background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 400px; 
+  
 }
 
 /* Clear floats after the columns */
