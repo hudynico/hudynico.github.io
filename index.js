@@ -6,15 +6,15 @@ const config = {
    * Replace this with your Mapbox Access Token (**Do this first!**)
    */
   accessToken:
-    "pk.eyJ1IjoiY3VybXVkZ2VvbnBoZCIsImEiOiJja3VxNjkxN2k0c2w0MnptbjU0N242cHFzIn0.DI3yxzJz-CO25QvNLXESOQ",
+    "pk.eyJ1IjoiaHVkeW5pY28iLCJhIjoiY2t6Y3gxb2p6MnN0bzJwdHY3OHBqanZsaiJ9.VzVjy77zv5mOL_pAtZ-WXw",
   /**
    * Replace with the url of your map style
    */
-  mapStyle: "mapbox://styles/curmudgeonphd/ckof3wsww4ig418jrc0eezyjx",
+  mapStyle: "mapbox://styles/hudynico/cl0r5oitb001314qlbpr6bsqf",
   /**
    * The layer within the vector tileset to use for querying
    */
-  sourceLayer: "kabupaten_gdf-0osmrh",
+  sourceLayer: "Counties_v17a-4dmugl",
   /**
    * This sets the title in the sidebar and the <title> tag of the app
    */
