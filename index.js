@@ -14,11 +14,11 @@ const config = {
   /**
    * The layer within the vector tileset to use for querying
    */
-  sourceLayer: "Counties_v17a-4dmugl",
+  sourceLayer: "s_USA-dx4vh7",
   /**
    * This sets the title in the sidebar and the <title> tag of the app
    */
-  title: "The September 30 Movement: Politics and Population Change",
+  title: "Endangered Species Ranges",
   /**
    * This sets the description in the sidebar
    */
