@@ -138,7 +138,7 @@ const map = new mapboxgl.Map({
   container: "map",
   style: config.mapStyle,
   // Change this if you want to zoom out further
-  minZoom: 8.12,
+  minZoom: 50,
   transformRequest,
 });
 
