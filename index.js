@@ -23,7 +23,7 @@ const config = {
    * This sets the description in the sidebar
    */
   description:
-    'The 1957 Election was dominated by four political parties. The Islamic parties NU (Nahdlatul Ulama) and the MAS (Masyumi Party) along with the PKI (Communist Party of Indonesia) and PNI (Indonesian National Party). Following the September 30 Movement in 1965, members and sympathizers of the Communist Party were imprisoned or disappeared. For more information on this event and the methods used to calculate the population loss see <a href="https://www.jstor.org/stable/10.5728/indonesia.104.0027">(Chandra 2017)</a>. Funding for this research was provided by the Harry Frank Guggenheim Foundation.',
+    'This map shows different endangered species ranges throughout the United States. It also shows where proclaimed forest and grasslands are in the US. Available habitat area has been decreasing over many years, and in turn many species ranges have decreased.',
   /**
    * Data fields to chart from the source data
    */
