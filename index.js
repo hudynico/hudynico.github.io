@@ -14,7 +14,7 @@ const config = {
   /**
    * The layer within the vector tileset to use for querying
    */
-  sourceLayer: "s_USA-dx4vh7",
+  sourceLayer: "Jaguar_Range_2001v1-82kqe8",
   /**
    * This sets the title in the sidebar and the <title> tag of the app
    */
