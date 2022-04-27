@@ -27,20 +27,20 @@ const config = {
   /**
    * Data fields to chart from the source data
    */
-  fields: ["MAX_perc_N", "MAX_perc_P", "MAX_perc_1", "MAX_perc_M"],
+  fields: [],
   /**
    * Labels for the X Axis, one for each field
    */
-  labels: ["NU", "PKI", "PNI", "MAS"],
+  labels: [],
   /**
    * The name of the data field to pull the place name from for chart labeling ("Total Votes in placeNameField, placeAdminField")
    */
-  placeNameField: "KAB_KOTA",
+  placeNameField:[] ,
   /**
    * (_Optional_) The name of the administrative unit field to use in chart labeling ("Total Votes in placeNameField, placeAdminField")
    */
 
-  dataSeriesLabel: "percent of vote ",
+  dataSeriesLabel: "",
   /**
    * Basic implementation of zooming to a clicked feature
    */
