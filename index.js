@@ -53,7 +53,7 @@ const config = {
   /**
    * (_Optional_) Set this to 'bar' for a bar chart, default is line
    */
-  chartType: "bar",
+  chartType: "line",
   /**
    * The name of the vector source, leave as composite if using a studio style,
    * change if loading a tileset programmatically
@@ -70,8 +70,8 @@ const config = {
   /**
    * Legend colors and values, ignored if autoLegend is used. Delete both if no legend is needed.
    */
-  legendColors: ["#d3031b ", "#775303", "#9a05cc", "#fcf23b", "#fcab31"],
-  legendValues: ["Sierra Nevada Red Fox", "Brown Bear", "Gray Wolf", "Jaguar", "Canadian Lynx"],
+  legendColors: ["#d3031b ", "#775303", "#9a05cc", "#fcf23b", "#fcab31", "#1e68f1"],
+  legendValues: ["Sierra Nevada Red Fox", "Brown Bear", "Gray Wolf", "Jaguar", "Canadian Lynx", "Carolina FLying Squirrel"],
   /**
   /**
    * The name of your choropleth map layer in studio, used for building a legend
