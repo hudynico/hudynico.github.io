@@ -23,7 +23,7 @@ const config = {
    * This sets the description in the sidebar
    */
   description:
-    'This map shows different endangered species ranges throughout the United States. It also shows where proclaimed forest and grasslands are in the US. Available habitat area has been decreasing over many years, and in turn many species ranges have decreased.',
+    'This map shows different endangered species ranges throughout the United States. It also shows where proclaimed forest and grasslands are in the US upon zooming into an area. Available habitat area has been decreasing over many years, and in turn many species ranges have decreased. It is no suprise that when you zoom into this map, the known mammal species ranges overlap with the areas where forests and grasslands are preserved because the rest of their land has been developed by humans. If you take a close look there are more patchy areas of proclaimed forest and grassland that do not overlap with any of the species ranges because connectivity of habitat land is also important to support populations.',
   /**
    * Data fields to chart from the source data
    */
